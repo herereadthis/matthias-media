@@ -1,0 +1,9 @@
+/node_modules
+/client/node_modules
+.DS_Store
+.idea
+npm-debug.log
+.env
+__pycache__/
+*.pyc
+/.pytest_cache/
